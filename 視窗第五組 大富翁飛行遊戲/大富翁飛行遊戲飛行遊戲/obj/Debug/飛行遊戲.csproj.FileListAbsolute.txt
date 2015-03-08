@@ -1,0 +1,445 @@
+C:\Users\彥霖\Desktop\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\彥霖\Desktop\飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\彥霖\Desktop\飛行遊戲\bin\Debug\飛行遊戲.pdb
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\StoreWindow.baml
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\StoreWindow.g.cs
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\App.g.cs
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\彥霖\Desktop\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\bin\Debug\飛行遊戲.pdb
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\StoreWindow.baml
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\StoreWindow.g.cs
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\App.g.cs
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\OptionWindow.baml
+C:\Users\彥霖\Desktop\視窗程式期末報告\飛行遊戲\obj\Debug\OptionWindow.g.cs
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.pdb
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.baml
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\StoreWindow.baml
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.g.cs
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\StoreWindow.g.cs
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\countWindow.baml
+C:\Users\USER\Desktop\飛行遊戲\飛行遊戲\obj\Debug\countWindow.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.pdb
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\countWindow.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\countWindow.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\App.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture1.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture1.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture2.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture3.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture4.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture2.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture3.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture4.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.pdb
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\countWindow.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture1.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture2.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture3.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture4.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\StoreWindow.baml
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\countWindow.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture1.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture2.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture3.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture4.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\StoreWindow.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\App.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+C:\Users\user\Desktop\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.pdb
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\countWindow.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture1.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture2.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture3.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture4.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\StoreWindow.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\countWindow.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture1.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture2.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture3.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture4.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\StoreWindow.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\App.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\store.baml
+C:\Users\user\Downloads\大富翁飛行遊戲\大富翁飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\store.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\store.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\store.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture5.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture6.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture7.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture8.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture9.baml
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture5.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture6.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture7.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture8.g.cs
+C:\Users\123\Desktop\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture9.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.pdb
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\countWindow.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture1.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture2.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture3.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture4.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture5.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture6.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture7.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture8.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture9.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\store.baml
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\countWindow.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture1.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture2.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture3.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture4.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture5.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture6.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture7.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture8.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\picture9.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\store.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\App.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+C:\Users\yoyo\Downloads\飛行遊戲\飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\123\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\USER\Desktop\123\飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\USER\Desktop\123\飛行遊戲\bin\Debug\飛行遊戲.pdb
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\countWindow.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\OptionWindow.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture1.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture2.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture3.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture4.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture5.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture6.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture7.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture8.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture9.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\store.baml
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\countWindow.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\OptionWindow.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture1.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture2.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture3.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture4.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture5.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture6.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture7.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture8.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\picture9.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\store.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+C:\Users\USER\Desktop\123\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe.config
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\Interop.WMPLib.dll
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.exe
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.pdb
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.exe
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\bin\Debug\飛行遊戲.pdb
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\countWindow.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\GameWindow.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\MainWindow.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture1.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture2.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture3.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture4.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture5.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture6.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture7.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture8.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture9.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\store.baml
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\countWindow.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\GameWindow.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\MainWindow.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\OptionWindow.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture1.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture2.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture3.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture4.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture5.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture6.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture7.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture8.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\picture9.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\store.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\App.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.g.resources
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+F:\視窗第五組 大富翁飛行遊戲\飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.exe.config
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\Interop.WMPLib.dll
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.exe
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.pdb
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.exe
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.pdb
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\countWindow.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\GameWindow.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\MainWindow.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\OptionWindow.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture1.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture2.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture3.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture4.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture5.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture6.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture7.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture8.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture9.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\store.baml
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\countWindow.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\GameWindow.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\MainWindow.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\OptionWindow.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture1.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture2.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture3.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture4.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture5.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture6.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture7.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture8.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture9.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\store.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\App.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.g.resources
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+F:\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.exe.config
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.exe
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.pdb
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\countWindow.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\GameWindow.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\OptionWindow.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture1.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture2.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture3.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture4.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture5.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture6.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture7.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture8.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture9.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\store.baml
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\countWindow.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\GameWindow.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\OptionWindow.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture1.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture2.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture3.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture4.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture5.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture6.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture7.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture8.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture9.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\store.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.g.resources
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.exe
+C:\Users\USER\Desktop\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.pdb
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.exe.config
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\Interop.WMPLib.dll
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csproj.ResolveComReference.cache
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.exe
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.pdb
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.exe
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\bin\Debug\飛行遊戲.pdb
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csprojResolveAssemblyReference.cache
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\countWindow.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\GameWindow.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\MainWindow.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\OptionWindow.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture1.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture2.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture3.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture4.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture5.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture6.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture7.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture8.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture9.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\store.baml
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\countWindow.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\GameWindow.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\MainWindow.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\OptionWindow.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture1.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture2.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture3.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture4.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture5.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture6.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture7.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture8.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\picture9.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\store.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\App.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲_Content.g.cs
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲_MarkupCompile.cache
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.g.resources
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.Properties.Resources.resources
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.Resource1.resources
+D:\Temp\103_WP_Final_hw100029880\(05-大富翁飛行遊戲)101703030\視窗第五組 大富翁飛行遊戲\大富翁飛行遊戲飛行遊戲\obj\Debug\飛行遊戲.csproj.GenerateResource.Cache

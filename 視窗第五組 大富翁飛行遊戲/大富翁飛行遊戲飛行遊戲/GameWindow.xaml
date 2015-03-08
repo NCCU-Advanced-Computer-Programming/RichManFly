@@ -1,0 +1,17 @@
+﻿<Window x:Class="飛行遊戲.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MonopoFly" Height="700" Width="900" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" PreviewKeyDown="Window_PreviewKeyDown" Loaded="Window_Loaded">
+    <Grid>
+        <Canvas x:Name="canvas">
+            <!--<MediaElement x:Name="music" Source="sky.mp3" Height="100" Canvas.Left="239" Canvas.Top="432" Width="100" />-->
+
+            <Image x:Name="background"   Source="背景/馬路.png" Height="664" Width="10896"  />
+            <Image x:Name="image" HorizontalAlignment="Left" Height="99" VerticalAlignment="Top" Width="86" Source="角色/孫小美.png" Canvas.Left="30" Canvas.Top="467"   />
+
+
+        </Canvas>
+        <Label x:Name="distanceLabel" Content="Time: " HorizontalAlignment="Left" Margin="657,43,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" />
+        <Label x:Name="moneyLabel" Content="Money: " HorizontalAlignment="Left" Margin="24,43,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" />
+    </Grid>
+</Window>
